@@ -1,8 +1,8 @@
 # Master
 
-# 2.0.5 - 4 March, 2021
+# 2.0.5 - 08 Mar, 2021
 ### Improvements
-- Added support for relative URLs and variables in servers #59
+- Update dependencies to fix security vulnerabilities
 
 # 2.0.4 - 26 Nov, 2020
 ### Improvements
